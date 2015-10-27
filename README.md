@@ -1,5 +1,5 @@
 # base16-vstheme
-Base16 Ocean Theme for Visual Studio, including ReSharper color support.
+Base16 Ocean Theme for Visual Studio 2015, including ReSharper color support.
 
 Supports the following file formats:
 - C#
@@ -10,6 +10,10 @@ Supports the following file formats:
 - SCSS
 
 ## How to install
+
+1. Select **Tools > Customize Colors**
+2. Click **Import Theme**
+3. Select the .vstheme file
 
 ## Screenshots
 ![C#](http://i.imgur.com/czPLdKv.png)
