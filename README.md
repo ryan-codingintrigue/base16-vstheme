@@ -11,10 +11,9 @@ Supports the following file formats:
 
 ## How to install
 
-1. Install the [Visual Studio 2015 Color Theme Editor](https://visualstudiogallery.msdn.microsoft.com/6f4b51b6-5c6b-4a81-9cb5-f2daa560430b)
-2. Select **Tools > Customize Colors**
-3. Click **Import Theme**
-4. Select the .vstheme file
+1. Select **Tools > Customize Colors**
+2. Click **Import Theme**
+3. Select the .vstheme file
 
 ## Screenshots
 ![C#](http://i.imgur.com/czPLdKv.png)
